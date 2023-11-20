@@ -1,0 +1,4 @@
+- Hello, my name is Victor Henrique Rodrigues.
+- i'm interested in learn in general, i love learning new things, that's why i learn quickly!
+- my favorite languages and knowledge are C++, Arduino IDE, Mathematics and physical.
+- i'm focused in learn C++, Python, Machine learning and another things.# VictorHenRodrigues
